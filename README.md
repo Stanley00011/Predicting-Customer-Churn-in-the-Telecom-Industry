@@ -19,19 +19,22 @@ Customer churn is a critical issue for telecom companies, directly impacting rev
 
 ## 3. Exploratory Data Analysis (EDA)
 ### Churn Distribution
-![Churn Distribution](path_to_image/churn_distribution.png)
+![Churn Distribution](![churn dis](https://github.com/user-attachments/assets/9b7f143a-a79b-4a02-8aeb-a64b4d20788e)
+)
 
 **Insight**: Approximately 26% of customers have churned.
 
 ### Correlation Matrix
-![Correlation Matrix](path_to_image/correlation_matrix.png)
+![Correlation Matrix](![cor mat](https://github.com/user-attachments/assets/f83691ec-5af1-4b6f-91d6-d97988d32121)
+)
 
 **Insight**: 
 - **Tenure** has a strong negative correlation with churn.
 - **MonthlyCharges** is positively correlated with churn.
 
 ### Feature Correlation with Churn
-![Categorical Features with Churn](path_to_image/categorical_features_with_churn.png)
+![Categorical Features with Churn](![cor of cat](https://github.com/user-attachments/assets/fbe9d792-f881-4b75-a871-761f8df48ba1)
+)
 
 **Key Insights**:
 - **Contract type** (month-to-month) is highly correlated with churn.
