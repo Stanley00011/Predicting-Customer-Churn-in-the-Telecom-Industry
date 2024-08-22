@@ -19,7 +19,7 @@ Customer churn is a critical issue for telecom companies, directly impacting rev
 
 ## 3. Exploratory Data Analysis (EDA)
 ### Churn Distribution
-![Churn Distribution](![churn dis](https://github.com/user-attachments/assets/9b7f143a-a79b-4a02-8aeb-a64b4d20788e)
+![Churn Distribution](![ch(https://github.com/user-attachments/assets/9b7f143a-a79b-4a02-8aeb-a64b4d20788e)
 )
 
 **Insight**: Approximately 26% of customers have churned.
@@ -65,10 +65,6 @@ Customer churn is a critical issue for telecom companies, directly impacting rev
 
 ## 6. Conclusion
 Predictive modeling and data-driven insights provide valuable strategies for reducing churn in the telecom industry. Implementing these recommendations can significantly improve customer retention and overall profitability.
-
-## Visualizations
-- Add the images generated during EDA to the `images` directory in your GitHub repository.
-- Update the `path_to_image` with the correct relative paths to these images.
 
 ## How to Run the Code
 - Ensure you have the required libraries installed: `pandas`, `seaborn`, `matplotlib`, `scikit-learn`.
