@@ -19,8 +19,8 @@ Customer churn is a critical issue for telecom companies, directly impacting rev
 
 ## 3. Exploratory Data Analysis (EDA)
 ### Churn Distribution
-(![churn dis](https://github.com/user-attachments/assets/fc351b9a-6700-4a65-b4b1-e244fd0b7996)
-)
+![churn dis](https://github.com/user-attachments/assets/fc351b9a-6700-4a65-b4b1-e244fd0b7996)
+
 
 **Insight**: Approximately 26% of customers have churned.
 
