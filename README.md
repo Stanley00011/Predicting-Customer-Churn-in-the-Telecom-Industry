@@ -59,7 +59,7 @@ Customer churn is a critical issue for telecom companies, directly impacting rev
    - Provide additional tech support and online security services, particularly to high-risk customers.
 
 4. **Personalized Marketing Campaigns**:
-   - Use insights from the model to create targeted campaigns aimed at retaining customers most likely to churn.
+   - Use insights from the model to create targeted campaigns to retain customers most likely to churn.
 
 ## 6. Conclusion
 Predictive modelling and data-driven insights provide valuable strategies for reducing churn in the telecom industry. Implementing these recommendations can significantly improve customer retention and overall profitability.
