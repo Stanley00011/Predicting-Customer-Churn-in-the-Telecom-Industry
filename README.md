@@ -29,7 +29,7 @@ Customer churn is a critical issue for telecom companies, directly impacting rev
 
 **Insight**: 
 - **Tenure** has a strong negative correlation with churn.
-- **MonthlyCharges** is positively correlated with churn.
+- **Monthly Charges** is positively correlated with churn.
 
 ### Feature Correlation with Churn
 ![cor of cat](https://github.com/user-attachments/assets/fbe9d792-f881-4b75-a871-761f8df48ba1)
